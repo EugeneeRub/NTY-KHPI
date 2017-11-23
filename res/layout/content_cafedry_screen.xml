@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.nty_hpi.Faculties.FacultiesScreen"
+    tools:showIn="@layout/cafedry_screen">
+
+    <ViewFlipper
+        android:id="@+id/viewflipperInCafedryCcreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:inAnimation="@anim/flipin">
+
+        <android.support.design.widget.CoordinatorLayout
+            android:id="@+id/firstLayoutInWebLoad"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Проверьте подключение к сети"
+                android:textColor="@android:color/black"/>
+
+            <Button
+                android:id="@+id/btnRepeatLoadInCafedryScreen"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Повторить"/>
+
+        </LinearLayout>
+       </android.support.design.widget.CoordinatorLayout>
+
+        <android.support.design.widget.CoordinatorLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ProgressBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"/>
+
+        </android.support.design.widget.CoordinatorLayout>
+
+
+        <android.support.v4.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <android.support.design.widget.AppBarLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/AppTheme.AppBarOverlay">
+
+                    <android.support.v7.widget.Toolbar
+                        android:id="@+id/toolbarInCafedryScreen"
+                        android:layout_width="match_parent"
+                        android:layout_height="?attr/actionBarSize"
+                        android:background="?attr/colorPrimary"
+                        app:popupTheme="@style/AppTheme.PopupOverlay"
+                        android:contentInsetStart="0dp">
+
+                        <TextView
+                            android:textColor="@android:color/white"
+                            android:textSize="20dp"
+                            android:id="@+id/floatingTextInToolBar"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"/>
+
+                    </android.support.v7.widget.Toolbar>
+
+                </android.support.design.widget.AppBarLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TextView
+                            android:id="@+id/facultiesTextNameInCafedryCcreen"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center|top"
+                            android:text=""
+                            android:textSize="20sp"/>
+
+                        <ImageView
+                            android:id="@+id/imageViewPeopleInCafedryCcreen"
+                            android:layout_width="200dp"
+                            android:layout_height="200dp"
+                            android:layout_below="@+id/facultiesTextNameInCafedryCcreen"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="11dp"
+                            android:scaleType="centerCrop"
+                            app:srcCompat="@drawable/circle"/>
+
+                        <Button
+                            android:id="@+id/buttonSiteInCafedryCcreen"
+                            android:layout_width="200dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignEnd="@+id/imageViewPeopleInCafedryCcreen"
+                            android:layout_alignRight="@+id/imageViewPeopleInCafedryCcreen"
+                            android:layout_below="@+id/imageViewPeopleInCafedryCcreen"
+                            android:layout_marginTop="12dp"
+                            android:background="@drawable/round_button"
+                            android:gravity="center"
+                            android:text="Посетите сайт"
+                            android:textColor="#ffff"/>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_below="@+id/buttonSiteInCafedryCcreen"
+                            android:layout_margin="4dp"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/facultiesAbout"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="О кафедре:"
+                                android:textSize="19sp"
+                                android:textStyle="bold"/>
+
+                            <TextView
+                                android:id="@+id/facultiesAboutTextInCafedryCcreen"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:textSize="17sp"/>
+
+                        </LinearLayout>
+                    </RelativeLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v4.widget.NestedScrollView>
+    </ViewFlipper>
+
+</android.support.design.widget.CoordinatorLayout>

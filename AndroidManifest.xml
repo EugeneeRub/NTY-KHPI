@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.nty_hpi">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+
+    <application
+
+        android:icon="@drawable/circle"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/round_main_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Main.MainActivity"
+            android:label="@string/app_name"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+
+        <!-- suppress AndroidDomInspection -->
+        <activity
+            android:name=".Map_Activity"
+            android:label="@string/title_map_page">
+        </activity>
+        <!-- suppress AndroidDomInspection -->
+        <activity
+            android:name=".Main.MainPageActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Faculties.FacultiesScreen"
+            android:label="@string/title_activity_faculties_screen"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".ListFaculties"
+            android:label="@string/title_activity_list_faculties"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Faculties.ListOfFaculties"
+            android:label="@string/title_activity_list_of_faculties"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Faculties.MainFaculties"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity android:name=".BugReportActivity"/>
+        <activity
+            android:name=".Megdyn_Svazy.MegdynarSvajzyActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".StudentLife.StudLifeActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".WebLoad"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+    </application>
+
+</manifest>

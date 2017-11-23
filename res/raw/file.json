@@ -1,0 +1,947 @@
+{
+  "faculties":[
+    {
+      "nameOfFacult":"Автоматика и приборостроения (АП)",
+      "nameOfDecan":"Гапон Анатолий Иванович",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/ap.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/ap/glavnaya/",
+      "comissia":"Электротехнический корпус, к. 210, тел.: 707-62-66.",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/ap",
+      "countOfBadText":4,
+      "cafedri": [
+        {
+          "nameOfCafedry":"Автоматика и управление в технических системах",
+          "nameOfZavCafedry":"Качанов Петр Алексеевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/36.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/auts/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=36",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Информационно-измерительные технологии и системы",
+          "nameOfZavCafedry":"Кондрашов Сергей Иванович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/70.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/iits/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=70",
+          "countOfBadTextInCafedr":2
+        },
+        {
+          "nameOfCafedry":"Радиоэлектроника",
+          "nameOfZavCafedry":"Дзюбанов Дмитрий Анатольевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/87.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/re/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=87",
+          "countOfBadTextInCafedr":2
+        },
+        {
+          "nameOfCafedry":"Теоретические основы электротехники",
+          "nameOfZavCafedry":"Резинкина Марина Михайловна",
+          "photoZavCafedryURL":"https://www.kpi.kharkov.ua/rus/wp-content/uploads/sites/3/2017/02/my-photo-pasport1-198x300.jpg",
+          "siteOfCafedry":"http://sites.kpi.kharkov.ua/toel/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=53",
+          "countOfBadTextInCafedr":0
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Бизнес и финансы (БФ)",
+      "nameOfDecan":"Гаврись Александр Николаевич",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/bif.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/bf/uk/main/",
+      "comissia":"ул. Фрунзе 21, корпус У-1, 2-й этаж, комната №202, тел. (057) 707-60-67, 707-68-46",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/bif",
+      "countOfBadText":0,
+      "cafedri": [
+        {
+          "nameOfCafedry":"История науки и техники",
+          "nameOfZavCafedry":"Скляр Владимир Николаевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/76.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/int/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=76",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Межкультурной коммуникации и иностранного языка",
+          "nameOfZavCafedry":"Горошко Елена Игоревна",
+          "photoZavCafedryURL":"https://www.kpi.kharkov.ua/rus/wp-content/uploads/sites/3/2016/11/15-1.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/mkia/",
+          "aboutFac":"https://www.kpi.kharkov.ua/rus/department/mizhkulturnoyi-komunikatsiyi-ta-inozemnoyi-movi/?kid=213",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Менеджмент внешнеэкономической деятельности и финансов",
+          "nameOfZavCafedry":"Мищенко Владимир Акимович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/10.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/finance/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=10",
+          "countOfBadTextInCafedr":2
+        },
+        {
+          "nameOfCafedry":"Менеджмента и налогообложения",
+          "nameOfZavCafedry":"Краснокутская Наталья Станиславовна",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/47.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/mto/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=47",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Экономическая кибернетика и маркетинговый менеджмент",
+          "nameOfZavCafedry":"Заруба Виктор Яковлевич",
+          "photoZavCafedryURL":"https://www.kpi.kharkov.ua/rus/wp-content/uploads/sites/3/2017/04/zaruba.jpg",
+          "siteOfCafedry":"http://eim.kh.ua/ekmm/",
+          "aboutFac":"https://www.kpi.kharkov.ua/rus/department/ekonomichna-kibernetika-ta-marketingovij-menedzhment/?kid=33",
+          "countOfBadTextInCafedr":2
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Военной подготовки им. Верховной Рады",
+      "nameOfDecan":"Серпухов Александр Васильевич",
+      "photoDecanaURL":"https://www.kpi.kharkov.ua/rus/wp-content/uploads/sites/3/2016/11/vp.jpg",
+      "siteOfFac":"http://fvp.kh.ua/",
+      "comissia":"61034 г. Харьков — 34, ул. Полтавский шлях, 192. Тел. (057) 372-61-67, дополнительный 2-44.",
+      "aboutFac":"",
+      "countOfBadText":0
+    },
+    {
+      "nameOfFacult":"Инженерно-физический (И)",
+      "nameOfDecan":"Конкин Валерий Николаевич",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/i.jpg",
+      "siteOfFac":"http://sites.kpi.kharkov.ua/infiz/",
+      "comissia":"учебный корпус №2 (У2), к. 413, тел. (057) 707-60-58",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/i",
+      "countOfBadText":1,
+      "cafedri": [
+        {
+          "nameOfCafedry":"Динамика и прочность машин",
+          "nameOfZavCafedry":"Львов Геннадий Иванович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/13.jpg",
+          "siteOfCafedry":"http://sites.kpi.kharkov.ua/dpm/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=13",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Компьютерное моделирование процессов и систем",
+          "nameOfZavCafedry":"Бреславський Дмитро Васильович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/73.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/spu/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=73",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Механика сплошных сред и сопротивление материалов",
+          "nameOfZavCafedry":"Хавин Валерий Львович",
+          "photoZavCafedryURL":"https://www.kpi.kharkov.ua/rus/wp-content/uploads/sites/3/2016/11/5-1.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/sopromat/",
+          "aboutFac":"https://www.kpi.kharkov.ua/rus/department/oporu-materialiv/?kid=36",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Прикладная математика",
+          "nameOfZavCafedry":"Курпа Лидия Васильевна",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/50.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/apm/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=50",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Теоретическая механика",
+          "nameOfZavCafedry":"Морачковский Олег Константинович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/8.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/teormeh/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=8",
+          "countOfBadTextInCafedr":3
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Интегрированные технологии и химическая техника (ИТ)",
+      "nameOfDecan":"Рассоха Алексей Николаевич",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/it.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/it/",
+      "comissia":"Учебный корпус № 1 (У1), к. 208, тел. 707-62-14.",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/it",
+      "countOfBadText":2,
+      "cafedri": [
+        {
+          "nameOfCafedry":"Автоматизации химико-технологических систем и экологического мониторинга",
+          "nameOfZavCafedry":"Подустов Михаил Алексеевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/52.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/acem/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=52",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Интегрированные технологии, процессы и аппараты",
+          "nameOfZavCafedry":"Товажнянский Леонид Леонидович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/93.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/itpa/ru/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=93",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Технология пластических масс и биологически активных полимеров",
+          "nameOfZavCafedry":"Авраменко Вячеслав Леонидович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/27.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/tpm/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=27",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Химическая техника и промышленная экология",
+          "nameOfZavCafedry":"Шапорев Валерий Павлович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/58.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/htpe/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=58",
+          "countOfBadTextInCafedr":2
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Компьютерные и информационные технологии (КИТ)",
+      "nameOfDecan":"Заполовский Николай Иосифович",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/kit.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/cit/",
+      "comissia":"Вечерний корпус, к. 6, 23; тел. (057) 707-69-56",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/kit",
+      "countOfBadText":2,
+      "cafedri": [
+        {
+          "nameOfCafedry":"Вычислительная техника и программированиe",
+          "nameOfZavCafedry":"Семенов Сергей Геннадьевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/51.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/otp/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=51",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Информатика и интеллектуальная собственность",
+          "nameOfZavCafedry":"Солощук Михаил Николаевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/42.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/itpa/ru/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=42",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Мультимедийные информационные технологии и системы",
+          "nameOfZavCafedry":"Порошин Сергей Михайлович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/64.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/mits/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=64",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Распределенных информационных систем и облачных технологий",
+          "nameOfZavCafedry":"Раскин Лев Григорьевич",
+          "photoZavCafedryURL":"https://www.kpi.kharkov.ua/rus/wp-content/uploads/sites/3/2016/11/29-1.jpg",
+          "siteOfCafedry":"http://cts.kh.ua/",
+          "aboutFac":"https://www.kpi.kharkov.ua/rus/department/komp-yuternogo-monitoringu-i-logistiki/?kid=276",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Системы информации",
+          "nameOfZavCafedry":"Серков Александр Анатольевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/2.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/si/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=2",
+          "countOfBadTextInCafedr":3
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Компьютерных наук и программной инженерии (КН)",
+      "nameOfDecan":"Гамаюн Игорь Петрович",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/if.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/if/",
+      "comissia":"Учебный корпус №2 (У2), к. 412, тел. 707-69-26.",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/if",
+      "countOfBadText":0,
+      "cafedri":[
+        {
+          "nameOfCafedry":"Компьютерная математика и анализ данных",
+          "nameOfZavCafedry":"Любчик Леонид Михайлович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/32.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/kmmm/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=32",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Программная инженерия и информационные технологии управления им. проф. Дабагяна А.В.",
+          "nameOfZavCafedry":"Годлевский Михаил Дмитриевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/62.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/asu/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=62",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Системный анализ и информационно-аналитические технологии",
+          "nameOfZavCafedry":"Куценко Александр Сергеевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/63.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/say/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=63",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Стратегического управления",
+          "nameOfZavCafedry":"Кононенко Игорь Владимирович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/33.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/pm/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=33",
+          "countOfBadTextInCafedr":0
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Машиностроительный (МШ)",
+      "nameOfDecan":"Степанов Михаил Сергеевич",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/msh.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/msh/",
+      "comissia":"Главный аудиторный корпус, к.302, 211, тел. 707-69-40.",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/msh",
+      "countOfBadText":0,
+      "cafedri":[
+        {
+          "nameOfCafedry":"Высшая математика",
+          "nameOfZavCafedry":"Геворкян Юрий Леванович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/54.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/vm/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=54",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Детали машин и мехатронных систем",
+          "nameOfZavCafedry":"Гайдамака Анатолий Владимирович",
+          "photoZavCafedryURL":"https://www.kpi.kharkov.ua/rus/wp-content/uploads/sites/3/2016/11/56.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/dmpm/",
+          "aboutFac":"https://www.kpi.kharkov.ua/rus/department/detali-mashin-ta-prikladna-mehanika/?kid=10",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Интегрированных технологий машиностроения",
+          "nameOfZavCafedry":"Грабченко Анатолий Иванович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/81.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/cutting/ru/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=81",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Подъемно-транспортные машины и оборудование",
+          "nameOfZavCafedry":"Григоров Отто Владимирович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/48.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/ltm/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=48",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Технология машиностроения и металлорежущие станки",
+          "nameOfZavCafedry":"Тимофеев Юрий Викторович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/41.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/tmms/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=41",
+          "countOfBadTextInCafedr":3
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Международного образования (МО)",
+      "nameOfDecan":"Тюпа Игорь Васильевич",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/fed.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/fmo/",
+      "comissia":"Инженерный корпус, 3 этаж, комн. 1, 2, 5, тел.: +38(057) 707-64-08, +38(057) 707-68-96",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/fed",
+      "countOfBadText":4,
+      "cafedri":[
+        {
+          "nameOfCafedry":"Гуманитарных наук",
+          "nameOfZavCafedry":"Снегурова Татьяна Алексеевна",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/80.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/kgn/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=80",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Естественных наук",
+          "nameOfZavCafedry":"Лапузина Елена Николаевна",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/84.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/ken/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=84",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Иностранных языков",
+          "nameOfZavCafedry":"Скрипниченко Лилия Васильевна",
+          "photoZavCafedryURL":"https://www.kpi.kharkov.ua/rus/wp-content/uploads/sites/3/2016/11/16-1.jpg",
+          "siteOfCafedry":"http://sites.kpi.kharkov.ua/foreign/",
+          "aboutFac":"https://www.kpi.kharkov.ua/rus/department/inozemnih-mov/?kid=59",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Политической истории",
+          "nameOfZavCafedry":"Николаенко Виталий Иванович",
+          "photoZavCafedryURL":"https://www.kpi.kharkov.ua/rus/wp-content/uploads/sites/3/2016/12/69.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/history/uk/",
+          "aboutFac":"https://www.kpi.kharkov.ua/rus/department/politichnoyi-istoriyi/?kid=77",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Украинского, русского языков и прикладной лингвистики",
+          "nameOfZavCafedry":"Чернявская Светлана Николаевна",
+          "photoZavCafedryURL":"https://www.kpi.kharkov.ua/rus/wp-content/uploads/sites/3/2016/11/fed.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/lingvo/",
+          "aboutFac":"https://www.kpi.kharkov.ua/rus/department/ukrayinskoyi-rosijskoyi-mov-i-prikladnoyi-lingvistiki/?kid=133",
+          "countOfBadTextInCafedr":0
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Механико-технологический (МТ)",
+      "nameOfDecan":"Погребной Николай Андреевич",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/mt.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/mt/",
+      "comissia":"Главный аудиторный корпус, к. 305, тел. (057)707-66-53.",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/mt",
+      "countOfBadText":0,
+      "cafedri":[
+        {
+          "nameOfCafedry":"Геометрическое моделирование и компьютерная графика",
+          "nameOfZavCafedry":"Шоман Ольга Викторовна",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/88.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/gmkg/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=88",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Литейное производство",
+          "nameOfZavCafedry":"Акимов Олег Викторович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/92.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/lv/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=92",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Материаловедение",
+          "nameOfZavCafedry":"Соболь Олег Валентинович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/83.jpg",
+          "siteOfCafedry":"http://sites.kpi.kharkov.ua/MiTOM/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=83",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Обработка металлов давлением",
+          "nameOfZavCafedry":"Плеснецов Юрий Александрович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/55.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/omd/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=55",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Охрана труда и окружающей среды",
+          "nameOfZavCafedry":"Березуцкий Вячеслав Владимирович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/94.jpg",
+          "siteOfCafedry":"http://sites.kpi.kharkov.ua/SafetyOfLiving/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=94",
+          "countOfBadTextInCafedr":2
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Социально-гуманитарных технологий (СГТ)",
+      "nameOfDecan":"Кипенский Андрей Владимирович",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/ipf.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/sgt/",
+      "comissia":"Учебный корпус № 5 НТУ «ХПИ», ул. Пушкинская, 79/2, комнаты № 300 та 313. Тел.: (057) 707-63-96, 707-63-98",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/ipf",
+      "countOfBadText":0,
+      "cafedri":[
+        {
+          "nameOfCafedry":"Делового иностранного языка и перевода",
+          "nameOfZavCafedry":"Бадан Антонина Анатольевна",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/18.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/dim/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=18",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Интеллектуальные компьютерные системы",
+          "nameOfZavCafedry":"Шаронова Наталия Валериевна",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/24.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/iks/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=24",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Педагогика и психология управления социальными системами им.акад. И.А.Зязюна",
+          "nameOfZavCafedry":"Александр Георгиевич Романовский",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/74.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/ppuss/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=74",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Право",
+          "nameOfZavCafedry":"Перевалова Людмила Викторовна",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/12.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/pravo/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=12",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Социологии и политологии",
+          "nameOfZavCafedry":"Бурега Валерий Васильевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/23.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/sp/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=23",
+          "countOfBadTextInCafedr":2
+        },
+        {
+          "nameOfCafedry":"Физическое воспитание",
+          "nameOfZavCafedry":"Юшко Алексей Владимирович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/59.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/sport/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=59",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Философии",
+          "nameOfZavCafedry":"Тарароев Яков Владимирович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/68.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/philosophy/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=68",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Этики, эстетики и истории культуры",
+          "nameOfZavCafedry":"Петутина Елена Александровна",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/43.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/ethics/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=43",
+          "countOfBadTextInCafedr":0
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Технологии неорганических веществ (ТНВ)",
+      "nameOfDecan":"Лещенко Сергей Анатольевич",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/tnv.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/tnr/uk/main/",
+      "comissia":"Технический корпус, деканат факультета технологии неорганических веществ, тел. (057) 707-63-25, (067) 912-04-37, (066) 695-34-41, (093 )633-09-53.",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/tnv",
+      "countOfBadText":4,
+      "cafedri":[
+        {
+          "nameOfCafedry":"Общая и неорганическая химия",
+          "nameOfZavCafedry":"Булавин Виктор Иванович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/39.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/onch/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=39",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Технической электрохимии",
+          "nameOfZavCafedry":"Тульский Геннадий Георгиевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/21.jpg",
+          "siteOfCafedry":"http://sites.kpi.kharkov.ua/dte/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=21",
+          "countOfBadTextInCafedr":2
+        },
+        {
+          "nameOfCafedry":"Технология керамики, огнеупоров, стекла и эмалей",
+          "nameOfZavCafedry":"Рыщенко Михаил Иванович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/60.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/ceramic/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=60",
+          "countOfBadTextInCafedr":2
+        },
+        {
+          "nameOfCafedry":"Химическая технология неорганических веществ, катализа и экологии",
+          "nameOfZavCafedry":"Лобойко Алексей Яковлевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/46.jpg",
+          "siteOfCafedry":"http://sites.kpi.kharkov.ua/xtnv/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=46",
+          "countOfBadTextInCafedr":2
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Технологии органических веществ (ТОВ)",
+      "nameOfDecan":"Некрасов Александр Павлович",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/tov.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/tov/",
+      "comissia":"Химический корпус, к.11, тел.: (057) 707-69-78",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/tov",
+      "countOfBadText":2,
+      "cafedri":[
+        {
+          "nameOfCafedry":"Биотехнология, биофизика и аналитическая химия",
+          "nameOfZavCafedry":"Огурцов Александр Николаевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/75.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/biotech/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=75",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Добыча нефти, газа и конденсата",
+          "nameOfZavCafedry":"Фык Илья Михайлович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/96.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/dngik/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=96",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Органическая химия, биохимия и микробиология",
+          "nameOfZavCafedry":"Шустиков Валентин Иванович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/86.jpg",
+          "siteOfCafedry":"http://sites.kpi.kharkov.ua/orgchem/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=86",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Органического синтеза и нанотехнологий",
+          "nameOfZavCafedry":"Кричковская Лидия Васильевна",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/25.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/nanochem/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=25",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Технологии жиров и продуктов брожения",
+          "nameOfZavCafedry":"Гладкий Федор Федорович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/1.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/tg/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=1",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Технологии переработки нефти, газа и твердого топлива",
+          "nameOfZavCafedry":"Слободской Станислав Александрович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/38.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/fuel/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=38",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Технологии полимерных композиционных материалов и покрытий",
+          "nameOfZavCafedry":"Каратеев Арнольд Михайлович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/71.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/tpkm/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=71",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Физической химии",
+          "nameOfZavCafedry":"Сахненко Николай Дмитриевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/40.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/fchem/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=40",
+          "countOfBadTextInCafedr":0
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Транспортного машиностроения (ТМ)",
+      "nameOfDecan":"Епифанов Виталий Валерьевич",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/tm.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/tm/",
+      "comissia":"Главный аудиторный корпус, к. 314, к. 211, тел. (057) 707-63-81",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/tm",
+      "countOfBadText":0,
+      "cafedri":[
+        {
+          "nameOfCafedry":"Автомобиле- и тракторостроения",
+          "nameOfZavCafedry":"Самородов Вадим Борисович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/17.jpg",
+          "siteOfCafedry":"http://ait.kharkov.ua",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=17",
+          "countOfBadTextInCafedr":2
+        },
+        {
+          "nameOfCafedry":"Двигатели внутреннего сгорания",
+          "nameOfZavCafedry":"Марченко Андрей Петрович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/65.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/diesel/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=65",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Информационные технологии и системы колесных и гусеничных машин",
+          "nameOfZavCafedry":"Волонцевич Дмитрий Олегович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/77.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/kgm/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=77",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Химическая технология неорганических веществ, катализа и экологии",
+          "nameOfZavCafedry":"Лобойко Алексей Яковлевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/46.jpg",
+          "siteOfCafedry":"http://sites.kpi.kharkov.ua/xtnv/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=46",
+          "countOfBadTextInCafedr":2
+        },
+        {
+          "nameOfCafedry":"Теория и системы автоматизированного проектирования механизмов и машин",
+          "nameOfZavCafedry":"Ткачук Николай Анатольевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/44.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/tmm-sapr/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=44",
+          "countOfBadTextInCafedr":2
+        },
+        {
+          "nameOfCafedry":"Электрический транспорт и тепловозостроение",
+          "nameOfZavCafedry":"Омельяненко Виктор Иванович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/45.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/ett/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=45",
+          "countOfBadTextInCafedr":3
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Физико-технический (ФТ)",
+      "nameOfDecan":"Кудий Дмитрий Анатольевич",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/ft.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/ft/",
+      "comissia":"Учебный корпус №2, к.308, тел. 707-60-85",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/ft",
+      "countOfBadText":0,
+      "cafedri":[
+        {
+          "nameOfCafedry":"Инженерная электрофизика",
+          "nameOfZavCafedry":"Рудаков Валерий Васильевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/20.jpg",
+          "siteOfCafedry":"http://sites.kpi.kharkov.ua/ief",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=20",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Техническая криофизика",
+          "nameOfZavCafedry":"Сипатов Александр Юрьевич",
+          "photoZavCafedryURL":"https://www.kpi.kharkov.ua/rus/wp-content/uploads/sites/3/2016/12/31.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/krio/",
+          "aboutFac":"https://www.kpi.kharkov.ua/rus/department/tehnichna-kriofizika/?kid=40",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Теоретической, экспериментальной и общей физики",
+          "nameOfZavCafedry":"Семенов Александр Владимирович",
+          "photoZavCafedryURL":"https://www.kpi.kharkov.ua/rus/wp-content/uploads/sites/3/2017/06/Semenov.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/tef/",
+          "aboutFac":"https://www.kpi.kharkov.ua/rus/department/teoretichnoyi-ta-eksperimentalnoyi-fiziki/?kid=41",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Химическая технология неорганических веществ, катализа и экологии",
+          "nameOfZavCafedry":"Лобойко Алексей Яковлевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/46.jpg",
+          "siteOfCafedry":"http://sites.kpi.kharkov.ua/xtnv/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=46",
+          "countOfBadTextInCafedr":2
+        },
+        {
+          "nameOfCafedry":"Физика металлов и полупроводников",
+          "nameOfZavCafedry":"Малыхин Сергей Владимирович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/35.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/fmp/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=35",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Физическое материаловедение для электроники и гелиоэнергетики",
+          "nameOfZavCafedry":"Хрипунов Геннадий Семёнович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/34.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/fmeg/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=34",
+          "countOfBadTextInCafedr":2
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Экономический (ЭК)",
+      "nameOfDecan":"Перерва Петр Григорьевич",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/ek.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/ek/",
+      "comissia":"Учебный корпус №1 НТУ «ХПИ», первый этаж, ком.101 и ком.106, телефон: 707-68-56.",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/ek",
+      "countOfBadText":3,
+      "cafedri":[
+        {
+          "nameOfCafedry":"Общей экономической теории",
+          "nameOfZavCafedry":"Архиереев Сергей Игоревич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/26.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/oet/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=26",
+          "countOfBadTextInCafedr":2
+        },
+        {
+          "nameOfCafedry":"Организации производства и управления персоналом",
+          "nameOfZavCafedry":"Матросов Александр Дмитриевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/22.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/bapm/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=22",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Экономики и маркетинга",
+          "nameOfZavCafedry":"Яковлев Анатолий Иванович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/57.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/keim/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=57",
+          "countOfBadTextInCafedr":2
+        },
+        {
+          "nameOfCafedry":"Экономического анализа и учета",
+          "nameOfZavCafedry":"Манойленко Александр Владимирович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/4.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/eaiu/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=4",
+          "countOfBadTextInCafedr":0
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Электромашиностроительный (ЭМС)",
+      "nameOfDecan":"Воинов Владимир Владимирович",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/ems.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/ems/",
+      "comissia":"Электрокорпус, к. 206, тел. 707-62-07",
+      "aboutFac":"https://www.kpi.kharkov.ua/rus/faculty/elektromashinobudivnij-fakultet/?id=6",
+      "countOfBadText":0,
+      "cafedri":[
+        {
+          "nameOfCafedry":"Автоматизированные электромеханические системы",
+          "nameOfZavCafedry":"Клепиков Владимир Борисович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/28.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/aems/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=28",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Компьютерные и радиоэлектронные системы контроля и диагностики",
+          "nameOfZavCafedry":"Сучков Григорий Михайлович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/90.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/pmnk/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=90",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Общая электротехника",
+          "nameOfZavCafedry":"Данько Владимир Григорьевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/11.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/ze/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=11",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Промышленная и биомедицинская электроника",
+          "nameOfZavCafedry":"Сокол Евгений Иванович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/67.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/pbme/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=67",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Электрические аппараты",
+          "nameOfZavCafedry":"Клименко Борис Владимирович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/78.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/ea/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=78",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Электрические машины",
+          "nameOfZavCafedry":"Милых Владимир Иванович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/7.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/elmash/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=7",
+          "countOfBadTextInCafedr":0
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Электроэнергетический (Э)",
+      "nameOfDecan":"Лазуренко Александр Павлович",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/e.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/ee/",
+      "comissia":"Электротехнический корпус, к. 207. тел. 707-65-86",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/e",
+      "countOfBadText":3,
+      "cafedri":[
+        {
+          "nameOfCafedry":"Автоматизация и кибербезопасность энергосистем",
+          "nameOfZavCafedry":"Гриб Олег Герасимович",
+          "photoZavCafedryURL":"https://www.kpi.kharkov.ua/rus/wp-content/uploads/sites/3/2017/05/foto.jpg",
+          "siteOfCafedry":"http://sites.kpi.kharkov.ua/ae/",
+          "aboutFac":"https://www.kpi.kharkov.ua/rus/department/avtomatizatsiyi-energosistem/?kid=82",
+          "countOfBadTextInCafedr":0
+        },
+        {
+          "nameOfCafedry":"Передача электрической энергии",
+          "nameOfZavCafedry":"Бондаренко Владимир Емельянович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/6.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/pee/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=6",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Электрические станции",
+          "nameOfZavCafedry":"Лазуренко Александр Павлович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/3.jpg",
+          "siteOfCafedry":"http://sites.kpi.kharkov.ua/es/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=3",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Электроизоляционная и кабельная техника",
+          "nameOfZavCafedry":"Гурин Анатолий Григорьевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/9.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/eikt/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=9",
+          "countOfBadTextInCafedr":3
+        }
+      ]
+    },
+    {
+      "nameOfFacult":"Энергомашиностроительный (ЭМ)",
+      "nameOfDecan":"Тарасенко Николай Алексеевич",
+      "photoDecanaURL":"http://old.kpi.kharkov.ua/images/decans/em.jpg",
+      "siteOfFac":"http://web.kpi.kharkov.ua/em",
+      "comissia":"Главный аудиторный корпус, к.206, тел. (057) 707-63-24",
+      "aboutFac":"http://old.kpi.kharkov.ua/ru/education/em",
+      "countOfBadText":4,
+      "cafedri":[
+        {
+          "nameOfCafedry":"Гидравлические машины",
+          "nameOfZavCafedry":"Черкашенко Михаил Владимирович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/66.jpg",
+          "siteOfCafedry":"http://sites.kpi.kharkov.ua/gdm/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=66",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Парогенераторостроения",
+          "nameOfZavCafedry":"Ефимов Александр Вячеславович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/49.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/pgs/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=49",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Теплотехники и энергоэффективных технологий",
+          "nameOfZavCafedry":"Ганжа Антон Николаевич",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/91.jpg",
+          "siteOfCafedry":"http://web.kpi.kharkov.ua/teplo/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=91",
+          "countOfBadTextInCafedr":3
+        },
+        {
+          "nameOfCafedry":"Турбиностроения",
+          "nameOfZavCafedry":"Бойко Анатолий Владимирович",
+          "photoZavCafedryURL":"http://old.kpi.kharkov.ua/images/departments/72.jpg",
+          "siteOfCafedry":"http://sites.kpi.kharkov.ua/turbine/",
+          "aboutFac":"http://old.kpi.kharkov.ua/ru/home/department/?id=72",
+          "countOfBadTextInCafedr":3
+        }
+      ]
+    }
+  ]
+}

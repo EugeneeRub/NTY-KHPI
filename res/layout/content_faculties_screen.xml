@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.nty_hpi.Faculties.FacultiesScreen"
+    tools:showIn="@layout/activity_faculties_screen">
+
+    <ViewFlipper
+        android:id="@+id/viewflipper"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:inAnimation="@anim/flipin">
+
+        <android.support.design.widget.CoordinatorLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Проверьте подключение к сети"
+                    android:textColor="@android:color/black"/>
+
+                <Button
+                    android:id="@+id/btnRepeatLoadInFacultiesScreen"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Повторить"/>
+
+            </LinearLayout>
+        </android.support.design.widget.CoordinatorLayout>
+
+        <android.support.design.widget.CoordinatorLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ProgressBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"/>
+        </android.support.design.widget.CoordinatorLayout>
+
+        <android.support.v4.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+                <android.support.design.widget.AppBarLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/AppTheme.AppBarOverlay">
+
+                    <android.support.v7.widget.Toolbar
+                        android:id="@+id/toolbarInFacultiesScreen"
+                        android:layout_width="match_parent"
+                        android:layout_height="?attr/actionBarSize"
+                        android:background="?attr/colorPrimary"
+                        app:popupTheme="@style/AppTheme.PopupOverlay"
+                        android:contentInsetStart="0dp">
+
+                        <TextView
+                            android:textColor="@android:color/white"
+                            android:id="@+id/floatingTextInFacultiesToolBar"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="20dp"/>
+                    </android.support.v7.widget.Toolbar>
+
+                </android.support.design.widget.AppBarLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TextView
+                            android:id="@+id/facultiesTextName"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center|top"
+                            android:text=""
+                            android:textSize="20sp"/>
+
+                        <ImageView
+                            android:id="@+id/imageViewPeople"
+                            android:layout_width="200dp"
+                            android:layout_height="200dp"
+                            android:layout_below="@+id/facultiesTextName"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="11dp"
+                            android:scaleType="centerCrop"
+                            app:srcCompat="@drawable/circle"/>
+
+                        <Button
+                            android:id="@+id/buttonSite"
+                            android:layout_width="200dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignEnd="@+id/imageViewPeople"
+                            android:layout_alignRight="@+id/imageViewPeople"
+                            android:layout_below="@+id/imageViewPeople"
+                            android:layout_marginTop="12dp"
+                            android:background="@drawable/round_button"
+                            android:gravity="center"
+                            android:text="Посетите сайт"
+                            android:textColor="#ffff"/>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_below="@+id/buttonSite"
+                            android:layout_margin="4dp"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/facultiesComission"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="7dp"
+                                android:text="Приемная комиссия:"
+                                android:textSize="19sp"
+                                android:textStyle="bold"/>
+
+                            <TextView
+                                android:id="@+id/facultiesTextComission"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:textSize="17sp"/>
+
+                            <TextView
+                                android:id="@+id/facultiesAbout"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="О фаукультете:"
+                                android:textSize="19sp"
+                                android:textStyle="bold"/>
+
+                            <TextView
+                                android:id="@+id/facultiesAboutText"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:textSize="17sp"/>
+
+                            <Button
+                                android:id="@+id/buttonCafedr"
+                                android:layout_width="200dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="12dp"
+                                android:background="@drawable/round_button"
+                                android:text="Кафедры"
+                                android:textColor="#ffff"/>
+                        </LinearLayout>
+                    </RelativeLayout>
+                </LinearLayout>
+
+            </LinearLayout>
+        </android.support.v4.widget.NestedScrollView>
+
+    </ViewFlipper>
+
+    <include layout="@layout/bottom_sheet_layout"/>
+
+</android.support.design.widget.CoordinatorLayout>
