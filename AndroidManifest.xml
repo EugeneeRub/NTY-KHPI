@@ -7,7 +7,6 @@
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
 
     <application
-
         android:icon="@drawable/circle"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/round_main_icon"
